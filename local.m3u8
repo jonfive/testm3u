@@ -1,0 +1,209 @@
+#EXTM3U
+#EXTINF:0, tvg-logo="" group-title="News",7 News (WDHH-TV)
+https://bcoveliveios-i.akamaihd.net/hls/live/246496/4744899807001/livestream/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",11Alive (WXIA-TV)
+https://wxia-lh.akamaihd.net/i/WXIALive_1@342562/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",12News Now (KBMT-TV)
+https://kjac-lh.akamaihd.net/i/KJACLive_1@359455/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",9News (KUSA-TV)
+https://b_kusa-f.akamaihd.net/i/KUSAShows_1@343312/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Action News Now (KNVN)
+https://api.new.livestream.com/accounts/26511688/events/7954874/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",ASD TV
+http://64.22.99.223/AnchorageSchoolsAKLIVE/_definst_/AnchorageSchoolsAKLIVE.stream/chunklist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Capital City Connection
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+#EXTINF:0, tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/05/17/956d6ad6-b82a-4bfe-a721-eb0baf9f1bba/thumbnail/640x360/b65a744ffdf7907006ed492bd4a5ff6f/logo-cbsn-la-440x227.png#" group-title="News",CBSN Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:0, tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/2018/12/11/044a5de4-b638-466c-a6f2-fe9513ede3a8/2f47b3fc5562b15462c61363170766fb/logo-cbsn-ny-web-444x224.png" group-title="News",CBSN New York
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8?iu=/8264/vaw-can/desktop/cbsnews
+#EXTINF:0, tvg-logo="" group-title="News",CPAC 1 (Cable Public Affairs Channel)
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",District Knowledge Network
+http://video.oct.dc.gov/out/u/96_4.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Escambia TV
+http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",FiOS1 News New Jersey
+https://cdnapisec.kaltura.com/p/424341/sp/42434100/playManifest/entryId/1_if6bcg01/format/applehttp/protocol/https/uiConfId/39790741/a.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",FiOS1 News Long Island
+https://cdnapisec.kaltura.com/p/424341/sp/42434100/playManifest/entryId/1_b159ee77/format/applehttp/protocol/https/uiConfId/39790741/a.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",FiOS1 News Lower Hudson Valley
+https://cdnapisec.kaltura.com/p/424341/sp/42434100/playManifest/entryId/1_is35xshu/format/applehttp/protocol/https/uiConfId/39790741/a.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Florida Channel
+http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Fox 5 Washington DC (WTTG-TV)
+https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Garland TV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Greenbelt TV
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",KRBC-TV
+http://krbc-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",KTVB
+http://ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",KOB4 News
+https://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",KOMU 8
+http://d2a6g6zgxepbwi.cloudfront.net/komu-edge/_definst_/livestream.stream_360p/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",KPNX Breaking 1
+https://b_kpnx-f.akamaihd.net/i/KPNXBreaking_1@398330/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",KRIS News
+https://api.new.livestream.com/accounts/16030759/events/4495499/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",KXAN News
+https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",KTVE Live Cam
+https://stream-us1-alfa.dropcam.com/nexus_aac/aa12f793f895423683a84dde703d2706/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Laurel TV
+https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",LTV
+http://pub.leominster.tv:1934/Pub/smil:Pub.smil/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",LTV EDU
+http://edu.leominster.tv:1932/Edu/smil:Edu.smil/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",LTV GOV
+http://gov.leominster.tv:1933/Gov/smil:Gov.smil/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Miami TV
+http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",NBC Bay Area (KNTV-TV)
+https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",NBC Bay Area Traffic Cam (KNTV-TV)
+https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",NBC2 News (KTUU-TV)
+httpx://api.new.livestream.com/accounts/7987479/events/2929660/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",News2 (WCBD-TV)
+https://api.new.livestream.com/accounts/8360295/events/2976321/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",News4 (WRC-TV)
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",News4 White House Cam (WRC-TV)
+https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",News5 WCYB
+https://api.new.livestream.com/accounts/8522497/events/3012727/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",NewsWest 9 (KWES)
+https://api.new.livestream.com/accounts/16923548/events/4681078/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",NBC2 (WGRZ)
+http://wgrz-lh.akamaihd.net/i/WGRZ_Live_1@68352/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",NBC3 (WRCB-TV)
+http://wrcb-lh.akamaihd.net/i/WRCB_903@73796/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",NBC4i (WCMH-TV)
+https://api.new.livestream.com/accounts/7338206/events/2798220/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",NBC4 News (KNBC-TV)
+https://knbclive-f.akamaihd.net/i/knbca1_1@13988/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",NBC4 New York News (WNBC-TV)
+https://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",NBC4 New York News (WNBC-TV) alt
+https://wnbclive-f.akamaihd.net/i/wnbca2_1@13992/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",NBC5 News (KXAS-TV)
+https://kxaslive-f.akamaihd.net/i/kxasb1_1@5492/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",NBC5 News (WMAQ-TV)
+https://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",NBC 6 South Florida (WTVJ-TV)
+https://wtvjlive-f.akamaihd.net/i/wtvja1_1@19309/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",NBC 7 News (KNSD-TV)
+https://knsdlive-f.akamaihd.net/i/knsdb1_1@71120/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",NBC 10 News (KTEN-TV)
+https://kten-lh.akamaihd.net/i/KTEN_1079@5589/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",NBC 12 News (WWBT-TV)
+https://api.new.livestream.com/accounts/11203782/events/3629264/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",NBC 29 (WVIR-TV)
+http://wvir-lh.akamaihd.net/i/WVIR_736@78303/master.m3u8?forceCacheClearSM=530806100000
+#EXTINF:0, tvg-logo="" group-title="News",NBC News Channel 13 (WNYT-TV)
+https://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",NewsChannel 12 KTVZ
+https://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",NewsNet
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",NewsWest 9 KWES
+https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",NYXT
+http://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",PGCPS
+http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Seattle Channel
+https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",SWX Right Now
+https://khq-lh.akamaihd.net/i/KHQ_1194@18032/master.m3u8?forceCacheClearSM=154221100000
+#EXTINF:0, tvg-logo="" group-title="News",Temple TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Town of Vienna Community Network
+https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_002/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Town of Vienna Community Network [HQ]
+https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_003/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",TVW2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",UGA TV
+http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",WALB News10
+https://walb-lh.akamaihd.net/i/WALB_853@69286/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",WAND 17
+https://api.new.livestream.com/accounts/15004678/events/4319643/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",WBTV News
+https://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",WCCB News Rising
+https://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",WCNC Breaking News
+http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",WCNC News
+http://wcnc-lh.akamaihd.net/i/WCNC_Shows_1@195111/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",WESH 2 News
+https://dai.google.com/linear/hls/p/event/cwT-uvx5ROaqHYlHudR1Fg/stream/0859b687-43f1-440c-92a7-b01328bc0578:MRN/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",WHO HD 13
+https://api.new.livestream.com/accounts/9976600/events/3382760/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",Erie News Now (WICU-TV)
+http://wicu-lh.akamaihd.net/i/WICU_1356@78350/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",WISTV
+http://wistv-lh.akamaihd.net/i/WISTV_822@68771/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",WJLA 24/7
+https://content.uplynk.com/channel/30f2cd5de8ae420dad845073a1a8b7f9.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",WKYC News
+https://wkyc-lh.akamaihd.net/i/WKYC_Live_1@70123/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",WLBZ2
+https://wlbz-lh.akamaihd.net/i/WLBZ_Live_1@27474/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",WLTV First News
+https://api.new.livestream.com/accounts/22400479/events/6650525/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",WPLG-TV
+https://wtvjlive-f.akamaihd.net/i/wtvja2_1@19309/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",WRAL5
+http://media-hls-az1.wral.com/livehttporigin/_definst_/mp4:encoder25-high/chunklist.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",WUSA9 Breaking News
+https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",WXXV25 24/7
+https://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="News",WVVA
+http://wvva-lh.akamaihd.net/i/WVVA_1165@110234/master.m3u8?forceCacheClearSM=833514100000
