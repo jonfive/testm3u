@@ -1,16 +1,3 @@
-#EXTM3U
-#EXTINF:0, tvg-logo="" group-title="News" Fox56 WOLF
+#EXTINF:0, >> FOX56
+#EXTINF:0, tvg-logo="" group-title="News" FOX56 
 https://livevideostatus.sinclairstoryline.com/HLSproxy/variant/proxyDvr.m3u8?manifestURL=https%3A%2F%2Fcontent-ause5.uplynk.com%2Fe5f131c4682044cf88a706a7f8c3ef42%2Ff.m3u8
-
-#EXTINF:0, >> WNEP
-https://player-api.new.livestream.com/accounts/1714160/events/1614682/broadcasts/194981391.secure.m3u8
-#EXTINF:0, >> WFMZ
-https://player-api.new.livestream.com/accounts/14384745/events/4211587/broadcasts/194980920.secure.m3u8?
-#EXTINF:0, >> WBRE
-https://dcs-live.apis.anvato.net/server/play/EAJYN3aSW2PLiK0M/rendition.m3u8?track=video-2&anvsid=i177602796-n07693c95-f6a6-4d3a-ad22-0d78be32a9b2&
-#EXTINF:0, >> FOX 56 Wolf 
-https://livevideostatus.sinclairstoryline.com/HLSproxy/variant/proxyDvr.m3u8?manifestURL=https%3A%2F%2Fcontent-ause5.uplynk.com%2Fe5f131c4682044cf88a706a7f8c3ef42%2Ff.m3u8
-
-https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/news/all.m3u8
-#EXTINF:0, >> Sports Streams
-https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/sports/all.m3u8
