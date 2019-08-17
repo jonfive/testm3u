@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0, tvg-logo="" group-title="News" Fox56 WOLF
+https://livevideostatus.sinclairstoryline.com/HLSproxy/variant/proxyDvr.m3u8?manifestURL=https%3A%2F%2Fcontent-ause5.uplynk.com%2Fe5f131c4682044cf88a706a7f8c3ef42%2Ff.m3u8
+
 #EXTINF:0, >> WNEP
 https://player-api.new.livestream.com/accounts/1714160/events/1614682/broadcasts/194981391.secure.m3u8
 #EXTINF:0, >> WFMZ
