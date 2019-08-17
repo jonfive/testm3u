@@ -1,3 +1,6 @@
-#EXTM3U
-#EXTINF:0, tvg-logo="" group-title="News" Fox 56
-https://livevideostatus.sinclairstoryline.com/HLSproxy/variant/proxyDvr.m3u8?manifestURL=https%3A%2F%2Fcontent-ause5.uplynk.com%2Fe5f131c4682044cf88a706a7f8c3ef42%2Ff.m3u8
+<tv source-data-url="http://api.tvprofil.net/" source-info-name="TvProfil API v1.7 - XMLTV" source-info-url="https://tvprofil.com">
+<channel id="fox56.us">
+<display-name>fox56</display-name>
+<url>FOX 56 Wolf</url>
+<icon src="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/htv1-logo.png"/>
+</channel>
