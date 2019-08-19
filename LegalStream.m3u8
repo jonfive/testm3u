@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="WNEP" tvg-name="WNEP" tvg-logo="" group-title="ABC LOCAL NETWORKS",WNEP
 https://livestream-f.akamaihd.net/i/1714160_1614682_lsiqvyanxdknqiun7kv_1@9161/index_1756_av-p.m3u8?sd=10&dw=14400&rebase=on&hdntl=exp=1566265351~acl=%2fi%2f1714160_1614682_lsiqvyanxdknqiun7kv_1%409161%2f*~data=hdntl~hmac=b420b5b72e2d17ae16ea37029abf0d90ef3481e0dd2cdddc53d4678a7c3e193d
+#EXTINF:-1 tvg-id="WFMZ" tvg-name="WFMZ" tvg-logo="" group-title="ABC LOCAL NETWORKS",WFMZ
+https://acdn.locastnet.org/variant/lHfhkjSxCbi0kNpsQjTWzYP9aicG0WbkG5tD3z5VeEo97w1hmqJStFOx+frjh3oIrBO9AKTiCn3ban4Eyk+cfQ==.m3u8
+#EXTINF:-1 tvg-id="WFMZDT" tvg-name="WFMZDT" tvg-logo="" group-title="ABC LOCAL NETWORKS",WFMZDT
+https://acdn.locastnet.org/variant/XomDOjNzW1dyLLcYO2M62YP9aicG0WbkG5tD3z5VeEo97w1hmqJStFOx+frjh3oIAlcbfz7+EqeayHw72oFr7A==.m3u8
